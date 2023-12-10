@@ -92,4 +92,7 @@ h1{
     .image{
         width: 50vw;
     }
+    .image-wrapper{
+        width: 50vw;
+    }
 }
